@@ -15,4 +15,6 @@
 13. Apa perbedaan err dan error? Apakah sama saja namun beda penulisan?
 14. Jelaskan fungsi new error pada program
 15. Apakah dapat menggunakan res untuk berpindah halaman?
-16. 
+16. Apa perbedaan dari console.log dan console.error
+17. Apa fungsi dari sintax .on
+18. Perbedaan Pool dan Client
