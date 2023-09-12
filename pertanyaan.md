@@ -18,3 +18,6 @@
 16. Apa perbedaan dari console.log dan console.error
 17. Apa fungsi dari sintax .on
 18. Perbedaan Pool dan Client
+19. Apa itu params? 
+20. Apakah argumen sama dengan parameter?
+21. Apa itu ajax dan query?
